@@ -1,6 +1,6 @@
 # Welcome to the Better Words!
 
-# Privacy Policy 
+## Privacy Policy 
 
 This is an application developed by Jason Dubon.
 
